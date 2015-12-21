@@ -1,9 +1,9 @@
-* 序論
+#序論
 
-** 123D Circuitsとは
+##123D Circuitsとは
 
 あーたらこーだらうだうだ
 
-* サンプル
+#サンプル
 
 https://123d.circuits.io/circuits/1393693-the-unnamed-circuit
